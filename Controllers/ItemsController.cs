@@ -1,5 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using MyApp.Data;
+using Microsoft.EntityFrameworkCore;
+using WebApplicationMVC.Data;
+using WebApplicationMVC.Models;
+
 
 namespace WebApplicationMVC.Controllers
 {
@@ -11,10 +14,30 @@ namespace WebApplicationMVC.Controllers
             _context = context;
         }
 
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            var items = _context.Items.ToList();
+            var items = await _context.Items.ToListAsync();
             return View(items);
+        }
+        public IActionResult Overview()
+        {
+            return View();
+        }
+        public async Task<IActionResult> Submit(Item item)
+        {
+            _context.Items.Add(item);
+            await _context.SaveChangesAsync();
+            return RedirectToAction("Index");
+        }
+        //create
+        [HttpPost]
+        public async Task<IActionResult> Create([Bind("Id, Name, Price")] Item item){
+            if(ModelState.IsValid){
+                _context.Items.Add(item);
+                await _context.SaveChangesAsync();
+                return RedirectToAction("Index");
+            }
+            return View(item);
         }
     }
 }

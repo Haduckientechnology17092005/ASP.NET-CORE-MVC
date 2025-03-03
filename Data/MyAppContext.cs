@@ -2,7 +2,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Identity.Client;
 using WebApplicationMVC.Models;
 
-namespace MyApp.Data
+namespace WebApplicationMVC.Data
 {
     public class MyAppContext: DbContext
     {

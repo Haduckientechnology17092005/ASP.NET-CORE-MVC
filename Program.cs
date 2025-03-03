@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using MyApp.Data;
+using WebApplicationMVC.Data;
 
 namespace WebApplicationMVC
 {
