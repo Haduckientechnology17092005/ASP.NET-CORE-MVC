@@ -3,20 +3,48 @@
   "WorkspaceRootPath": "D:\\Studying\\HK4\\NET (2.5)\\WebApplicationMVC\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4A2A418E-18E4-4066-A08B-98B101D589A0}|WebApplicationMVC.csproj|d:\\studying\\hk4\\net (2.5)\\webapplicationmvc\\models\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A2A418E-18E4-4066-A08B-98B101D589A0}|WebApplicationMVC.csproj|solutionrelative:models\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2A418E-18E4-4066-A08B-98B101D589A0}|WebApplicationMVC.csproj|d:\\studying\\hk4\\net (2.5)\\webapplicationmvc\\data\\myappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A2A418E-18E4-4066-A08B-98B101D589A0}|WebApplicationMVC.csproj|solutionrelative:data\\myappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2A418E-18E4-4066-A08B-98B101D589A0}|WebApplicationMVC.csproj|d:\\studying\\hk4\\net (2.5)\\webapplicationmvc\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A2A418E-18E4-4066-A08B-98B101D589A0}|WebApplicationMVC.csproj|solutionrelative:controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4A2A418E-18E4-4066-A08B-98B101D589A0}|WebApplicationMVC.csproj|d:\\studying\\hk4\\net (2.5)\\webapplicationmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A2A418E-18E4-4066-A08B-98B101D589A0}|WebApplicationMVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2A418E-18E4-4066-A08B-98B101D589A0}|WebApplicationMVC.csproj|d:\\studying\\hk4\\net (2.5)\\webapplicationmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A2A418E-18E4-4066-A08B-98B101D589A0}|WebApplicationMVC.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2A418E-18E4-4066-A08B-98B101D589A0}|WebApplicationMVC.csproj|d:\\studying\\hk4\\net (2.5)\\webapplicationmvc\\migrations\\20250302171826_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A2A418E-18E4-4066-A08B-98B101D589A0}|WebApplicationMVC.csproj|solutionrelative:migrations\\20250302171826_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2A418E-18E4-4066-A08B-98B101D589A0}|WebApplicationMVC.csproj|d:\\studying\\hk4\\net (2.5)\\webapplicationmvc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4A2A418E-18E4-4066-A08B-98B101D589A0}|WebApplicationMVC.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A2A418E-18E4-4066-A08B-98B101D589A0}|WebApplicationMVC.csproj|d:\\studying\\hk4\\net (2.5)\\webapplicationmvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{4A2A418E-18E4-4066-A08B-98B101D589A0}|WebApplicationMVC.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4A2A418E-18E4-4066-A08B-98B101D589A0}|WebApplicationMVC.csproj|d:\\studying\\hk4\\net (2.5)\\webapplicationmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4A2A418E-18E4-4066-A08B-98B101D589A0}|WebApplicationMVC.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4A2A418E-18E4-4066-A08B-98B101D589A0}|WebApplicationMVC.csproj|d:\\studying\\hk4\\net (2.5)\\webapplicationmvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A2A418E-18E4-4066-A08B-98B101D589A0}|WebApplicationMVC.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A2A418E-18E4-4066-A08B-98B101D589A0}|WebApplicationMVC.csproj|d:\\studying\\hk4\\net (2.5)\\webapplicationmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A2A418E-18E4-4066-A08B-98B101D589A0}|WebApplicationMVC.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A2A418E-18E4-4066-A08B-98B101D589A0}|WebApplicationMVC.csproj|d:\\studying\\hk4\\net (2.5)\\webapplicationmvc\\webapplicationmvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{4A2A418E-18E4-4066-A08B-98B101D589A0}|WebApplicationMVC.csproj|solutionrelative:webapplicationmvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A2A418E-18E4-4066-A08B-98B101D589A0}|WebApplicationMVC.csproj|d:\\studying\\hk4\\net (2.5)\\webapplicationmvc\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -30,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 77,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,20 +66,103 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "D:\\Studying\\HK4\\NET (2.5)\\WebApplicationMVC\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ItemsController.cs",
+              "ToolTip": "D:\\Studying\\HK4\\NET (2.5)\\WebApplicationMVC\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "Controllers\\ItemsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T18:04:49.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250302171826_Initial Migration.cs",
+              "DocumentMoniker": "D:\\Studying\\HK4\\NET (2.5)\\WebApplicationMVC\\Migrations\\20250302171826_Initial Migration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250302171826_Initial Migration.cs",
+              "ToolTip": "D:\\Studying\\HK4\\NET (2.5)\\WebApplicationMVC\\Migrations\\20250302171826_Initial Migration.cs",
+              "RelativeToolTip": "Migrations\\20250302171826_Initial Migration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T17:18:26.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Studying\\HK4\\NET (2.5)\\WebApplicationMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Studying\\HK4\\NET (2.5)\\WebApplicationMVC\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-02T17:17:12.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyAppContext.cs",
+              "DocumentMoniker": "D:\\Studying\\HK4\\NET (2.5)\\WebApplicationMVC\\Data\\MyAppContext.cs",
+              "RelativeDocumentMoniker": "Data\\MyAppContext.cs",
+              "ToolTip": "D:\\Studying\\HK4\\NET (2.5)\\WebApplicationMVC\\Data\\MyAppContext.cs",
+              "RelativeToolTip": "Data\\MyAppContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T17:00:46.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WebApplicationMVC",
+              "DocumentMoniker": "D:\\Studying\\HK4\\NET (2.5)\\WebApplicationMVC\\WebApplicationMVC.csproj",
+              "RelativeDocumentMoniker": "WebApplicationMVC.csproj",
+              "ToolTip": "D:\\Studying\\HK4\\NET (2.5)\\WebApplicationMVC\\WebApplicationMVC.csproj",
+              "RelativeToolTip": "WebApplicationMVC.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-02T17:00:24.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Studying\\HK4\\NET (2.5)\\WebApplicationMVC\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\Studying\\HK4\\NET (2.5)\\WebApplicationMVC\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-02T08:35:21.22Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Items.cs",
+              "DocumentMoniker": "D:\\Studying\\HK4\\NET (2.5)\\WebApplicationMVC\\Models\\Items.cs",
+              "RelativeDocumentMoniker": "Models\\Items.cs",
+              "ToolTip": "D:\\Studying\\HK4\\NET (2.5)\\WebApplicationMVC\\Models\\Items.cs",
+              "RelativeToolTip": "Models\\Items.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T07:34:06.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Studying\\HK4\\NET (2.5)\\WebApplicationMVC\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Studying\\HK4\\NET (2.5)\\WebApplicationMVC\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwCUAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T02:38:16.062Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-02T02:38:16.062Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "D:\\Studying\\HK4\\NET (2.5)\\WebApplicationMVC\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
@@ -59,12 +170,11 @@
               "RelativeToolTip": "Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T02:36:39.819Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-02T02:36:39.819Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\Studying\\HK4\\NET (2.5)\\WebApplicationMVC\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -72,12 +182,11 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T02:36:28.273Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-02T02:36:28.273Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "site.js",
               "DocumentMoniker": "D:\\Studying\\HK4\\NET (2.5)\\WebApplicationMVC\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
@@ -85,12 +194,11 @@
               "RelativeToolTip": "wwwroot\\js\\site.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-03-02T02:36:22.309Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-02T02:36:22.309Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\Studying\\HK4\\NET (2.5)\\WebApplicationMVC\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -98,8 +206,7 @@
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-02T02:35:41.311Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-02T02:35:41.311Z"
             }
           ]
         },
